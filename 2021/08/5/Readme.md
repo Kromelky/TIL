@@ -15,6 +15,8 @@ Figured and fixed out what tortured remote site network infrastructure for last 
 Compleated lesson 18 task from SkillBox (nothing new here)
 (My teacher is still winning in our code review competition, 
 he probably doesn't suspect about it, but who cares? Our score is about 4 : 2. 
-But my 2 points much more important, probably their team have to fix their autotests a bit)
+But my 2 points much more important, probably their team have to fix their a bit)
 Get some practice with python re library. 
+Got some problems with pushing on GitHub with Pycharm without licensing
+Looks like I dont have same problem with gitlab.
 ````

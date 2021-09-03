@@ -15,3 +15,9 @@ I've learned how to work with Python Flask (very similar to Java Spring Framewor
 Custom http service didn't makes any trubles, but https API Talend CURLS doen't works correctly yet.
 ````
 ****
+****
+#### Day 3
+````
+I've learned how to work with ansible vault.
+````
+****

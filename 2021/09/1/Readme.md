@@ -21,3 +21,12 @@ Custom http service didn't makes any trubles, but https API Talend CURLS doen't 
 I've learned how to work with ansible vault.
 ````
 ****
+
+****
+#### Day 4
+````
+Watched some educational videos about Jenkins usage. 
+I hope i can фзздн this knowledge with 
+my access condtrol system project next week.
+````
+****

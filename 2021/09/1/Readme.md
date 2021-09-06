@@ -30,3 +30,12 @@ I hope i can фзздн this knowledge with
 my access condtrol system project next week.
 ````
 ****
+
+****
+#### Day 6
+````
+Learned about ansible roles and expects Ansible.
+Kesl Linux version doesn`t work update source with credential. 
+Have to make anon ftp with firewalls.
+````
+****

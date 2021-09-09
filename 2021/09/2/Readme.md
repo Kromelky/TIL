@@ -21,3 +21,12 @@ Learned scope of work and materials for planning technical inspection number 6.
 
 ````
 ****
+
+****
+#### Day 9
+````
+Get some expirience in Golang. C-similar languages isn't that im good at. 
+Honestly i would could make this telegram bot much faster using java. 
+
+````
+****

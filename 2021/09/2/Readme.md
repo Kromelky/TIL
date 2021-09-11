@@ -30,3 +30,10 @@ Honestly i would could make this telegram bot much faster using java.
 
 ````
 ****
+
+****
+#### Day 11
+````
+I've learned how to nitilize Coninent NCC and CG. 
+````
+****
